@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "401538707661",
+    "project_id": "lobdho-610c4",
+    "storage_bucket": "lobdho-610c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401538707661:android:f536c88813aecb19d6f984",
+        "android_client_info": {
+          "package_name": "com.lobdho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401538707661-eolkmuu89ipjdefcvkrc8dlhtbm9ppoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lobdho",
+            "certificate_hash": "47481d0a9fd3ac142f4e15757ae5cf189feae41d"
+          }
+        },
+        {
+          "client_id": "401538707661-ldns6sksn8qo17b3sl092ltjto2lgi67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lobdho",
+            "certificate_hash": "3301bf1ac716f2120d4110f177585f64901f1dd6"
+          }
+        },
+        {
+          "client_id": "401538707661-n2frhn2tmgo4g52702qhufjb8lfqq32g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lobdho",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "401538707661-eovh2ob65nhaugb9dim2tpce57gms425.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuqA6O0IeduGLH-9csipLB_oKS3BQfBH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401538707661-ei6ovpjf4uh3csct1jhtng01qir5ci5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
